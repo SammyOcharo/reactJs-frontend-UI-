@@ -56,7 +56,7 @@ export const Navbar = ({ toggle }) => {
             <Nav scrollNav={scrollNav}>
                 <NavbarContainer>
                     <NavLogo href="/" onClick={toggleHome}>
-                        Umoja Baptist Church
+                        CASH APP
                     </NavLogo>
                     <MobileIcon onClick={toggle}>
                         <FaBars />
